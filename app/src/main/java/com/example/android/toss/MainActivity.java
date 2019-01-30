@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
     public static final Random RANDOM = new Random();
     private ImageView coin;
     private Button btn;
-
+    private Button chandan;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
